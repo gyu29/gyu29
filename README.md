@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm gyu29</h1>
-<h3 align="center">A Python dev from SK</h3>
 
 - 🔭 I’m currently working on learning **AI**
 
