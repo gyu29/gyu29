@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm gyu29</h1>
 <h3 align="center">A Python dev from SK</h3>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on learning **AI**
 
-- 👯 I’m looking to collaborate on **Desktop Software Integrated with AI**
+- 👯 I’m looking to collaborate on **Desktop Software**
 
 - 📫 How to reach me **zecrilox@gmail.com**
 
